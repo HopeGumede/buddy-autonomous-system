@@ -73,5 +73,9 @@ This simulation is Phase 1 of a multi-phase roadmap:
 This system has been validated in simulation only. Physical deployment will introduce real-world variables — sensor noise, power inconsistencies, material resistance — that simulation cannot fully replicate. That's where the real engineering begins.
 
 ---
+## Circuit Schematic
 
+![Buddy Proximity System Schematic](screenshot(62).png)
+Added circuit schematic to README
+---
 *Built from Gaborone, Botswana. Starting small. Thinking big.* 🇧🇼
