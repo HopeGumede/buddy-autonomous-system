@@ -75,7 +75,7 @@ This system has been validated in simulation only. Physical deployment will intr
 ---
 ## Circuit Schematic
 
-![Buddy Proximity System Schematic](screenshot(62).png)
+![Buddy Proximity System Schematic](screenshot(65).png)
 Added circuit schematic to README
 ---
 *Built from Gaborone, Botswana. Starting small. Thinking big.* 🇧🇼
